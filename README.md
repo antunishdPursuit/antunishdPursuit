@@ -8,7 +8,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${antunishdPursuit}.${622805048})
 
-- 🔭 I’m currently working on a [Pokemon and Movie API](https://github.com/antunishdPursuit/antunishdPursuit)
+- 🔭 I’m currently working on [Movies and Pokemon](https://github.com/antunishdPursuit/movies-and-pokemon)
 
 - 🌱 I’m currently learning **Bootstrap, React, and Angular**
 
