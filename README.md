@@ -1,40 +1,10 @@
-![Three connected project nodes above layered ocean-blue waves](assets/profile-banner.svg)
+Full-stack developer building what I want, what is cool, and whatever is fun to think about. Love the eagles and a kickstarter superbacker!
 
-# Full-stack developer building what I want, what is cool, and whatever is fun to think about
+## A Few Favorites
 
-I’m Dennys, a full-stack developer focused on JavaScript, React, Node.js, and AI-assisted applications. I enjoy going from an idea to a deployed project. I want to see the things I built being used by someone. I’m currently building interactive web tools and expanding my skills in application architecture and AI integration.
-
-## Featured Projects
-
-### [Resonance Room](https://github.com/antunishdPursuit/resonance-room)
-
-[![Resonance Room project preview](assets/projects/resonance-room-placeholder.svg)](https://resonance-room-web.onrender.com/)
-
-An interactive 3D music-discovery experience where visitors talk with a virtual classroom assistant, explore song recommendations, and build a session-based taste profile.
-
-**Built with:** React, Three.js, Vite, Python, FastAPI, Anthropic, Last.fm, and ElevenLabs
-
-[View the repository](https://github.com/antunishdPursuit/resonance-room) · [Try it live](https://resonance-room-web.onrender.com/)
-
-### [LinguaRead](https://github.com/antunishdPursuit/linguaread)
-
-[![LinguaRead project preview](assets/projects/linguaread-placeholder.svg)](https://github.com/antunishdPursuit/linguaread)
-
-A PDF-first Chrome reading aid that helps Mandarin-speaking English learners understand and work through English documents.
-
-**Built with:** TypeScript, React, WXT, PDF.js, Cloudflare Workers, and Vitest
-
-[View the repository](https://github.com/antunishdPursuit/linguaread)
-
-### [Landline](https://github.com/antunishdPursuit/Landline)
-
-[![Landline project preview](assets/projects/landline-placeholder.svg)](https://landline-eta.vercel.app/)
-
-An in-room hotel concierge demo where guests speak with an AI voice agent and hotel staff review requests and transcripts in a protected dashboard.
-
-**Built with:** Next.js, React, TypeScript, Tailwind CSS, ElevenLabs, Clerk, Tavily, and Stay22
-
-[View the repository](https://github.com/antunishdPursuit/Landline) · [Try it live](https://landline-eta.vercel.app/)
+| Eagles — *Their Greatest Hits (1971–1975)* | Eagles — *Eagles* | Kickstarter Superbacker |
+| :---: | :---: | :---: |
+| ![Eagles Their Greatest Hits album cover](assets/appreciation/eagles-greatest-hits.jpg) | ![Eagles debut album cover](assets/appreciation/eagles-the-eagles.jpeg) | ![Kickstarter logo](assets/appreciation/kickstarter.png) |
 
 ## Current Focus
 
@@ -54,4 +24,4 @@ An in-room hotel concierge demo where guests speak with an AI voice agent and ho
 
 ## LinkedIn
 
-[Connect with me on LinkedIn](https://www.linkedin.com/in/dennys-antunish/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dennys-antunish/)
