@@ -46,7 +46,7 @@
   </g>
 
   <g fill="none" stroke="#eafbff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3">
-    <path d="M378 194v-18l28-6v21m-28 3c0 7-12 8-12 1s12-8 12-1Zm28-3c0 7-12 8-12 1s12-8 12-1Z"/>
+    <path d="M392 194v-18l28-6v21m-28 3c0 7-12 8-12 1s12-8 12-1Zm28-3c0 7-12 8-12 1s12-8 12-1Z"/>
     <path d="M779 172h34a5 5 0 0 1 5 5v34a5 5 0 0 1-5 5h-34a5 5 0 0 1-5-5v-34a5 5 0 0 1 5-5Zm6 11h22m-22 10h22m-22 10h13"/>
     <path d="M1177 179c0-6 5-11 11-11h24c6 0 11 5 11 11v22c0 6-5 11-11 11h-24c-6 0-11-5-11-11v-22Zm11 0h24m-17 33v8m-10 0h30"/>
     <path d="M1187 190c6-6 20-6 26 0m-22 7c4-3 14-3 18 0" stroke="#ff7f50"/>
