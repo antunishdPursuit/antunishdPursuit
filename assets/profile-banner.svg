@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 400" role="img" aria-labelledby="title description">
+  <title id="title">Ocean-blue project banner</title>
+  <desc id="description">Three connected project nodes float above layered ocean waves.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#031926"/>
+      <stop offset="0.55" stop-color="#063b5c"/>
+      <stop offset="1" stop-color="#0077b6"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0077b6" stop-opacity="0.15"/>
+      <stop offset="0.5" stop-color="#00b4d8" stop-opacity="0.7"/>
+      <stop offset="1" stop-color="#90e0ef" stop-opacity="0.2"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#90e0ef" stop-opacity="0.8"/>
+      <stop offset="1" stop-color="#00b4d8" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="soft-glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="8"/>
+    </filter>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#90e0ef" stroke-opacity="0.07"/>
+    </pattern>
+  </defs>
+
+  <rect width="1600" height="400" fill="url(#background)"/>
+  <rect width="1600" height="400" fill="url(#grid)"/>
+
+  <g fill="none" stroke-linecap="round">
+    <path d="M170 211C350 103 484 282 680 190S1010 102 1192 196s260 40 336-10" stroke="#00b4d8" stroke-opacity="0.28" stroke-width="2"/>
+    <path d="M198 225C363 136 504 295 693 208s319-61 488 6 269 37 347-7" stroke="#90e0ef" stroke-opacity="0.18"/>
+  </g>
+
+  <g stroke="#90e0ef" stroke-opacity="0.32" stroke-width="2">
+    <path d="M400 190H800H1200"/>
+  </g>
+
+  <g>
+    <circle cx="400" cy="190" r="72" fill="url(#glow)" filter="url(#soft-glow)"/>
+    <circle cx="800" cy="190" r="72" fill="url(#glow)" filter="url(#soft-glow)"/>
+    <circle cx="1200" cy="190" r="72" fill="url(#glow)" filter="url(#soft-glow)"/>
+    <circle cx="400" cy="190" r="43" fill="#052f49" stroke="#00b4d8" stroke-width="2"/>
+    <circle cx="800" cy="190" r="43" fill="#052f49" stroke="#00b4d8" stroke-width="2"/>
+    <circle cx="1200" cy="190" r="43" fill="#052f49" stroke="#00b4d8" stroke-width="2"/>
+  </g>
+
+  <g fill="none" stroke="#eafbff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3">
+    <path d="M378 194v-18l28-6v21m-28 3c0 7-12 8-12 1s12-8 12-1Zm28-3c0 7-12 8-12 1s12-8 12-1Z"/>
+    <path d="M779 172h34a5 5 0 0 1 5 5v34a5 5 0 0 1-5 5h-34a5 5 0 0 1-5-5v-34a5 5 0 0 1 5-5Zm6 11h22m-22 10h22m-22 10h13"/>
+    <path d="M1177 179c0-6 5-11 11-11h24c6 0 11 5 11 11v22c0 6-5 11-11 11h-24c-6 0-11-5-11-11v-22Zm11 0h24m-17 33v8m-10 0h30"/>
+    <path d="M1187 190c6-6 20-6 26 0m-22 7c4-3 14-3 18 0" stroke="#ff7f50"/>
+  </g>
+
+  <g fill="#90e0ef">
+    <circle cx="99" cy="80" r="2"/><circle cx="231" cy="126" r="3"/><circle cx="1390" cy="87" r="2"/><circle cx="1481" cy="155" r="3"/>
+    <circle cx="615" cy="76" r="2"/><circle cx="976" cy="104" r="3"/>
+  </g>
+
+  <path d="M0 288c174-63 288 53 462 7s293-21 436 24 270-61 409-42 207 71 293 35v88H0Z" fill="url(#wave)"/>
+  <path d="M0 329c160-42 301 52 481 13s287-12 436 26 276-54 407-31 194 58 276 32v31H0Z" fill="#00b4d8" fill-opacity="0.18"/>
+</svg>

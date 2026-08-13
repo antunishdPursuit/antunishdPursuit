@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title description">
+  <title id="title">Landline preview placeholder</title>
+  <desc id="description">Ocean-blue placeholder for a future Landline screenshot.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#031926"/><stop offset="1" stop-color="#0077b6"/>
+    </linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" fill="none" stroke="#90e0ef" stroke-opacity=".08"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect width="1200" height="630" fill="url(#grid)"/>
+  <circle cx="600" cy="248" r="92" fill="#052f49" stroke="#00b4d8" stroke-width="4"/>
+  <g fill="none" stroke="#eafbff" stroke-linecap="round" stroke-linejoin="round" stroke-width="7">
+    <path d="M547 224c0-18 15-33 33-33h40c18 0 33 15 33 33v45c0 18-15 33-33 33h-40c-18 0-33-15-33-33v-45Z"/>
+    <path d="M568 220h64m-45 82v17m-25 0h76"/>
+    <path d="M574 251c14-13 38-13 52 0m-42 18c9-7 23-7 32 0" stroke="#ff7f50"/>
+  </g>
+  <text x="600" y="400" fill="#eafbff" font-family="system-ui, sans-serif" font-size="48" font-weight="700" text-anchor="middle">Landline</text>
+  <text x="600" y="452" fill="#90e0ef" font-family="system-ui, sans-serif" font-size="26" text-anchor="middle">Project preview coming soon</text>
+  <path d="M0 526c171-60 291 44 465 3s294-7 439 35 271-58 404-34 210 65 292 32v68H0Z" fill="#00b4d8" fill-opacity=".28"/>
+</svg>
