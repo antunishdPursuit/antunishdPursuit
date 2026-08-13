@@ -1,10 +1,10 @@
 Full-stack developer building what I want, what is cool, and whatever is fun to think about. Love the eagles and a kickstarter superbacker!
 
-## A Few Favorites
+![Eagles Their Greatest Hits album cover](assets/appreciation/eagles-greatest-hits.jpg)
 
-| Eagles — *Their Greatest Hits (1971–1975)* | Eagles — *Eagles* | Kickstarter Superbacker |
-| :---: | :---: | :---: |
-| ![Eagles Their Greatest Hits album cover](assets/appreciation/eagles-greatest-hits.jpg) | ![Eagles debut album cover](assets/appreciation/eagles-the-eagles.jpeg) | ![Kickstarter logo](assets/appreciation/kickstarter.png) |
+![Eagles debut album cover](assets/appreciation/eagles-the-eagles.jpeg)
+
+![Kickstarter logo](assets/appreciation/kickstarter.png)
 
 ## Current Focus
 
@@ -24,4 +24,4 @@ Full-stack developer building what I want, what is cool, and whatever is fun to 
 
 ## LinkedIn
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dennys-antunish/)
+[![LinkedIn profile](assets/linkedin.svg)](https://www.linkedin.com/in/dennys-antunish/)
