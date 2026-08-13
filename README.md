@@ -1,23 +1,49 @@
-<h1 align="center">Hi 👋, I'm Dennys Antunish</h1>
-<img align="center" height = "250em" src="DennysAntunish2.jpg">
-<h3 align="center">FullStack Developer excitedly learning about AI and its growth</h3>
+# Full-stack developer building what I want, what is cool, and whatever is fun to think about
 
+I’m Dennys, a full-stack developer focused on JavaScript, React, Node.js, and AI-assisted applications. I enjoy going from an idea to a deployed project. I want to see the things I built being used by someone. I’m currently building interactive web tools and expanding my skills in application architecture and AI integration.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=antunishdpursuit&label=Profile%20views&color=0e75b6&style=flat" alt="antunishdpursuit" />
- </p>
+## Featured Projects
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${antunishdPursuit}.${622805048})
+### [Resonance Room](https://github.com/antunishdPursuit/resonance-room)
 
-- 🔭 I’m currently working on a [Pokemon and Movie API](https://github.com/antunishdPursuit/antunishdPursuit)
+An interactive 3D music-discovery experience where visitors talk with a virtual classroom assistant, explore song recommendations, and build a session-based taste profile.
 
-- 🌱 I’m currently learning **Bootstrap, React, and Angular**
+**Built with:** React, Three.js, Vite, Python, FastAPI, Anthropic, Last.fm, and ElevenLabs
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dennys-antunish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dennys-antunish" height="30" width="40" /></a>
-</p>
+[View the repository](https://github.com/antunishdPursuit/resonance-room) · [Try it live](https://resonance-room-web.onrender.com/)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### [LinguaRead](https://github.com/antunishdPursuit/linguaread)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antunishdpursuit&show_icons=true&locale=en" alt="antunishdpursuit" /></p>
+A PDF-first Chrome reading aid that helps Mandarin-speaking English learners understand and work through English documents.
+
+**Built with:** TypeScript, React, WXT, PDF.js, Cloudflare Workers, and Vitest
+
+[View the repository](https://github.com/antunishdPursuit/linguaread)
+
+### [Landline](https://github.com/antunishdPursuit/Landline)
+
+An in-room hotel concierge demo where guests speak with an AI voice agent and hotel staff review requests and transcripts in a protected dashboard.
+
+**Built with:** Next.js, React, TypeScript, Tailwind CSS, ElevenLabs, Clerk, Tavily, and Stay22
+
+[View the repository](https://github.com/antunishdPursuit/Landline) · [Try it live](https://landline-eta.vercel.app/)
+
+## Current Focus
+
+- Building interactive experiences that combine useful interfaces with AI
+- Taking ideas from early prototypes to deployed projects
+- Improving application architecture, testing, accessibility, and reliability
+
+## Technologies
+
+**Languages:** JavaScript, TypeScript, Python, HTML, CSS
+
+**Frontend:** React, Next.js, Three.js, Vite, Tailwind CSS, WXT
+
+**Backend and APIs:** Node.js, FastAPI, Cloudflare Workers, Anthropic, ElevenLabs, Last.fm, Tavily, Stay22
+
+**Testing and deployment:** Vitest, Jest, Testing Library, Vercel, Render, Cloudflare
+
+## LinkedIn
+
+[Connect with me on LinkedIn](https://www.linkedin.com/in/dennys-antunish/)
