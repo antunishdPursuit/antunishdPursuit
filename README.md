@@ -1,4 +1,4 @@
-I build things I want to exist—interactive experiences, useful tools, and occasionally something strange. I use AI throughout the process to explore ideas, build, test, and refine them.
+I build things that extend beyond what I already have done like interactive experiences, useful tools, and occasionally something strange. I use AI throughout the process to explore ideas, build, test, and refine them.
 
 ## Selected projects
 
